@@ -1,0 +1,8 @@
+title: Your awesome title
+email: your-email@domain.com
+github_username:  jwizerd
+
+# Build settings
+markdown: kramdown
+sass:
+    sass_dir: _sass
